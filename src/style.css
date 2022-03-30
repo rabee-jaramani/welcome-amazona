@@ -1,10 +1,10 @@
 body {
   background-color: #303030;
+  font-family: 'Courier New', Courier, monospace;
 }
 h2 {
   color: rgb(235, 235, 235);
   font-weight: 400;
-  font-family: 'Courier New', Courier, monospace;
   font-size: 1.2rem;
 }
 .App {
@@ -28,7 +28,7 @@ h2 {
   border-radius: 3px;
 }
 a {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #000;
   font-weight: 600;
   text-decoration: none;
